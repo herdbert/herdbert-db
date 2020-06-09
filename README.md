@@ -6,9 +6,5 @@ Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es ha
 
 # Inhalt
 
-🍝 Pasta
-
-🍞 Brot
-
-🧁 Dessert und Süßes
+🍝 Pasta | 🍞 Brot | 🧁 Dessert und Süßes
 
