@@ -25,7 +25,9 @@ Es braucht keine besonderen Gerätschaften außer einem feuerfesten Topf mit Dec
 1. Vermenge die Zutaten in einer Schüssel. Bedecke die Schüssel und lass sie für 12-18h bei Raumtemperatur stehen.
 2. Dehnen und Falten: Löse den Teig vom Schüsselrand, greif ihn an einer Seite, ziehe diese hoch und falte sie zurück. Wiederhole das von allen Seiten.
 3. Nimm dir ein stark mit Mehl bestäubtes Tuch und packe deinen Teigling dort ein. Lasse ihn für 1-3h ruhen.
-4. Heize den Backofen mitsamt Topf und Topfdeckel auf 250°C vor. 
+4. Heize den Backofen mitsamt Topf und Topfdeckel auf 250°C vor.
+5. 30 min mit Deckel backen, 15-20 min ohne Deckel.
+6. Aus dem Topf aufs Rost kippen, 2h abkühlen lassen vor Anschnitt
 
 ### Anmerkungen
 
