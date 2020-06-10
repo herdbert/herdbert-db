@@ -12,6 +12,10 @@ Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es ha
 
 [Parmigiana](Rezepte/Parmigiana.md) 🍆
 
+### 🥣 Suppen
+
+[Erbsensuppe](Erbsensuppe.md)
+
 ### 🍞 Brote
 
 [No-Knead-Bread](Rezepte/No-Knead-Bread.md) (mit Hefe)
