@@ -10,13 +10,10 @@ Es braucht keine besonderen Gerätschaften außer einem feuerfesten Topf mit Dec
 
 ## Zutaten
 
-400g Mehl
-
-300g Wasser
-
-4g Frischhefe oder 1g Trockenhefe
-
-10g Salz
+- 400g Mehl
+- 300g Wasser
+- 4g Frischhefe oder 1g Trockenhefe
+- 10g Salz
 
 ## Zubereitung
 
