@@ -2,7 +2,7 @@
 
 Dieses Rezept geht nicht schief. Gut dazu passt selbstgemachter Apfelmus.
 
-## Zutaten
+## Zutaten für 4 Portionen
 
 1l Milch
 
