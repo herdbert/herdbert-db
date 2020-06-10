@@ -1,4 +1,4 @@
-# herdbert
+# Was ist herdbert-db?
 
 Eine kuratierte Sammlung von Rezepten und kulinarischem Wissen aus persönlichen Erfahrungen, dem Internet, und von Freunden und Familie. Quellen aus dem Internet werden angegeben, aber Inhalte nicht einfach kopiert. Nur was die eigene Küche durchlaufen hat wird hochgeladen.
 
