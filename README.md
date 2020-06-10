@@ -14,7 +14,7 @@ Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es ha
 
 ### 🍞 Brote
 
-[No-Knead-Bread](doc/No-Knead-Bread.md)
+[No-Knead-Bread](Rezepte/No-Knead-Bread.md) (mit Hefe)
 
 ### 🧁 Dessert und Süßes
 
