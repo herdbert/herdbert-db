@@ -8,7 +8,7 @@ Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es ha
 
 ### 🍝 Pasta
 
-[Carbonara](Rezepte/Carbonara.md)
+[Carbonara](Rezepte/Carbonara.md) 🥚🥓
 
 ### 🍲 Hauptspeisen
 
