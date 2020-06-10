@@ -4,7 +4,21 @@ Eine kuratierte Sammlung von Rezepten und kulinarischem Wissen aus persönlichen
 
 Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es handelt sich um eine private kulinarische Wissensdatenbank, die gewissen Anforderungen entspricht: alltagstauglich / simpel / bezahlbar / auf den Punkt
 
-# Inhalt
+# Navigation
 
-🍝 Pasta | 🍞 Brot | 🧁 Dessert und Süßes
+### 🍝 Pasta
+
+### 🍲 Hauptspeisen
+
+[Parmigiana](Rezepte/Parmigiana.md) 🍆
+
+### 🍞 Brote
+
+[No-Knead-Bread](doc/No-Knead-Bread.md)
+
+### 🧁 Dessert und Süßes
+
+[Tiramisu](Rezepte/Tiramisu.md)
+
+[Vanillekipferl](Rezepte/Vanillekipferl.md) 
 
