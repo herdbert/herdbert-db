@@ -14,7 +14,11 @@ Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es ha
 
 ### 🥣 Suppen
 
-[Erbsensuppe](Erbsensuppe.md)
+[Erbsensuppe](Rezepte/Erbsensuppe.md)
+
+### 🥄 Verschiedenes 
+
+[Milchreis](Rezepte/Milchreis.md)
 
 ### 🍞 Brote
 
