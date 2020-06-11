@@ -1,5 +1,9 @@
 # Carbonara
 
+Carbonara ist ein klassisches Gericht der römischen Küche. Es definiert sich durch seine Bestandteile mehr als durch seine Zubereitung (solange das Ei nicht gerinnt. 
+
+**Grundformel:** Pasta + Speck + Pecorino + Ei + Pasta
+
 ## Zutaten p.P.
 
 100g Pasta (Empfehlung: lang)

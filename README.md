@@ -12,6 +12,8 @@ Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es ha
 
 [Amatriciana](Rezepte/Amatriciana.md) 🥓🌶🍅
 
+[Puttanesca](Rezepte/Puttanesca.md) 🫒🐟🍅
+
 ### 🍲 Hauptspeisen
 
 [Parmigiana](Rezepte/Parmigiana.md) 🍆🍅🧀
