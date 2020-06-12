@@ -8,15 +8,21 @@ Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es ha
 
 ### 🍝 Pasta
 
+#### mit Fisch und Fleisch
+
 [Carbonara](Rezepte/Carbonara.md) 🥓🥚🧀
 
 [Amatriciana](Rezepte/Amatriciana.md) 🥓🌶🍅
 
 [Puttanesca](Rezepte/Puttanesca.md) 🫒🐟🍅
 
-
+[Ragù alla Bolognese](Rezepte/Ragu-Bolognese.md) 🍖🍅
 
 [Ragù Bianco](Rezepte/Ragu-Bianco.md) 🍖
+
+#### vegetarisch
+
+[Sugo Finto](Rezepte/Sugo-Finto.md) 🧅🥬🥕🍅
 
 ### 🍲 Hauptspeisen
 
