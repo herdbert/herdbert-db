@@ -14,6 +14,10 @@ Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es ha
 
 [Puttanesca](Rezepte/Puttanesca.md) 🫒🐟🍅
 
+
+
+[Ragù Bianco](Rezepte/Ragu-Bianco.md) 🍖
+
 ### 🍲 Hauptspeisen
 
 [Parmigiana](Rezepte/Parmigiana.md) 🍆🍅🧀
@@ -29,6 +33,8 @@ Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es ha
 ### 🍞 Brote
 
 [No-Knead-Bread](Rezepte/No-Knead-Bread.md) (mit Hefe)
+
+[No-Knead-Bread mit Sauerteig](Rezepte/No-Knead-Bread-Sauerteig.md)
 
 ### 🧁 Dessert und Süßes
 
