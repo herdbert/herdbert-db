@@ -4,10 +4,14 @@ Rezept von [Foodgeek](https://foodgeek.dk/en/worlds-easiest-sourdough-bread/) um
 
 ## Zutaten
 
-40g Sauerteig
+40g Sauerteig-Anstellgut, frisch
 400g Mehl
 300g Wasser
 10g Salz
 
 ## Zubereitung
+
+1. Zutaten vermengen
+2. abdecken, 8-10h ruhen lassen
+3. von jeder Seite dehnen und falten
 
