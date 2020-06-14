@@ -4,7 +4,7 @@ Eine kuratierte Sammlung von Rezepten und kulinarischem Wissen aus persönlichen
 
 Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es handelt sich um eine private kulinarische Wissensdatenbank, die gewissen Anforderungen entspricht: alltagstauglich / simpel / bezahlbar / auf den Punkt
 
-# Navigation
+## Navigation
 
 ### 🍝 Pasta
 
@@ -20,27 +20,55 @@ Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es ha
 
 [Ragù Bianco](Rezepte/Ragu-Bianco.md) 🍖
 
+[Pasta alla Norcina](Norcina.md) 🍖🧅🥛
+
 #### vegetarisch
 
 [Sugo Finto](Rezepte/Sugo-Finto.md) 🧅🥬🥕🍅
 
-### 🍲 Hauptspeisen
+[Ragù di Lenticchie](Rezepte/ragu-lenticchie.md) / Linsenragù
+
+[Aglio e Olio e Peperoncino](Rezepte/aglio-olio.md) 🧄🌶
+
+Cacio e Pepe 🧀
+
+### 🍚 Reis und Risotto
+
+Tomatenrisotto 🍅
+
+### 🍲 Diverse Hauptspeisen
 
 [Parmigiana](Rezepte/Parmigiana.md) 🍆🍅🧀
 
-### 🥣 Suppen
+[Dal](Rezepte/Dal.md)
+
+[Zwiebel-Frittata](Rezepte/Zwiebel-Frittata.md) 🥚🧅
+
+### 🥣 Suppen und Eintöpfe
 
 [Erbsensuppe](Rezepte/Erbsensuppe.md)
 
-### 🥄 Verschiedenes 
+[Linsensuppe](Rezepte/Linsensuppe.md)
 
-[Milchreis](Rezepte/Milchreis.md)
+Fagioli all'uccelletto / Bohnenpfanne
+
+Pappa al pomodoro 🍅🍞🍃
+
+[Gazpacho](Rezepte/Gazpacho.md) 🍅🥒🧄
+
+[Salmorejo](Rezepte/Salmorejo.md) 🍅🧄🍞🌶
+
+### 🥄 Beilagen, Komponenten
+
+frijoles refritos (Bohnenmus)
 
 ### 🍞 Brote
 
-[Sauerteig-Basiswissen](Sauerteig-Basics.md)
+#### Basics
 
-***
+[Sauerteig-Basiswissen](Rezepte/Sauerteig-Basics.md)
+
+#### Supersimple Brote
 
 [No-Knead-Bread](Rezepte/No-Knead-Bread.md) (mit Hefe)
 
@@ -52,3 +80,4 @@ Hier sind Rezept-/Wissen-Rohdaten in Form von Markdown-Dateien versammelt. Es ha
 
 [Vanillekipferl](Rezepte/Vanillekipferl.md) 
 
+[Milchreis](Rezepte/Milchreis.md) 🍚
